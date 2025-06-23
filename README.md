@@ -40,7 +40,8 @@ cd cyberforge-ember
 ## 🛠️ Install Manually
 
 - Download the Ollama app from the link above.
-![Screenshot 2025-06-18 at 1 13 59 PM](https://github.com/user-attachments/assets/e8681b17-a695-4d23-8d1c-822fa639ea30)
+
+![Ollama Homepage](screenshots/ollama.png)
 
 - With the Ollama app running on your machine, navigate to a new terminal instance, and run the following commands:
 
@@ -107,23 +108,23 @@ yarn dev
 
 ## 📷 Screenshots
 
-![Onboarding - Upload Documents](https://github.com/user-attachments/assets/ef87d772-cf27-47bf-8418-f3c945257986)
+![Onboarding - Upload Documents](screenshots/onboarding.png)
 
 *Figure 1: Onboarding - Upload Documents*
 
-![Home Page](https://github.com/user-attachments/assets/1b1fed39-cd73-4482-8540-f6df7347940f)
+![Home Page](screenshots/homepage.png)
 
 *Figure 2: Home Page*
 
-![Chat History](https://github.com/user-attachments/assets/1781d270-d5db-4fbe-9cc9-bf67c546a190)
+![Chat History](screenshots/history.png)
 
 *Figure 3: Chat History*
 
-![Chat Interactions](https://github.com/user-attachments/assets/ae4afebb-1d3a-48ac-9589-799511bfc923)
+![Chat Interactions](screenshots/interactions.png)
 
 *Figure 4: Chat Interactions*
 
-![Uploaded PDFs](https://github.com/user-attachments/assets/f6bcee46-08cd-459c-95a2-3ccc2b5099f6)
+![Uploaded PDFs](screenshots/uploaded.png)
 
 *Figure 5: Uploaded PDFs*
 
